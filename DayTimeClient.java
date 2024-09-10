@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-public class MyClient {
+public class DayTimeClient {
     public static void main(String[] args) throws IOException {
         // Create a socket to connect to the server
         Socket clientSocket = new Socket("localhost", 1234);
