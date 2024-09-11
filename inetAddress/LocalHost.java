@@ -1,3 +1,4 @@
+package inetAddress;
 import java.net.*;
 public class LocalHost {
   public static void main(String[] args) throws Exception {

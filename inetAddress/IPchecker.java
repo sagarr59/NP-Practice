@@ -1,3 +1,4 @@
+package inetAddress;
 import java.net.*;
 public class IPchecker {
   public static void main(String[] args) {

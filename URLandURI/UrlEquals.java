@@ -1,3 +1,4 @@
+package URLandURI;
 import java.net.*;
 
 public class UrlEquals {

@@ -1,3 +1,4 @@
+package dayTimeServer;
 import java.io.*;
 import java.net.*;
 public class DayTimeClient {

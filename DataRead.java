@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.*;
 
-public class App {
+public class DataRead {
     public static void main(String[] args) {
         try {
             // Create a URL object

@@ -1,8 +1,9 @@
+package dayTimeServer;
 import java.io.*;
 import java.net.*;
 import java.util.Date;
 
-public class DayTimeServer {
+public class MTdaytimeServer {
     public static void main(String[] args) throws Exception {
         // Create a ServerSocket -port 1234
         ServerSocket serverSocket = new ServerSocket(1234);
